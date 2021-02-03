@@ -1,0 +1,1 @@
+tensorboard --logdir logs/TB_70perc_ep50_hid_64
